@@ -1,0 +1,28 @@
+# Alguns comandos uteis para usar no Git
+
+**Git Init ** - para criar um novo repositório
+
+**Git add . ** - para adicionar todos os arquivos
+
+**Git add meu_arquivo.txt ** para adicionar um diretório especifico
+
+**Git add meu_repositorio** - Para adicionar um diretorio em especifico
+
+**Git commit meu_arquivo.txt** para comitar um arquivo
+
+**Git Commit meuarquivo.txt -m "minha mensagem de commit"** - para adicionar msg
+
+**Git rm meuarquivo.txt**- para remover um arquivo
+
+**Git rm -r diretorio** - para remover o diretorio
+
+**Git push -u origin master** para enviar arquivos para o repositorio remoto
+
+**Git pull** para atualizar o repositorio local de acordo com o remoto
+
+**git clone** para clonar um repositorio remoto ja existente
+
+### Conforme eu for aprendendo , vou atualizando!
+
+ 
+
