@@ -8,7 +8,7 @@
 
 **Git add meu_repositorio** - Para adicionar um diretorio em especifico
 
-**Git commit meu_arquivo.txt** para comitar um arquivo
+**Git commit -m "meu_arquivo.txt"** para comitar um arquivo
 
 **Git Commit meuarquivo.txt -m "minha mensagem de commit"** - para adicionar msg
 
@@ -16,7 +16,7 @@
 
 **Git rm -r diretorio** - para remover o diretorio
 
-**Git push -u origin master** para enviar arquivos para o repositorio remoto
+**Git push **para enviar arquivos para o repositorio remoto
 
 **Git pull** para atualizar o repositorio local de acordo com o remoto
 
